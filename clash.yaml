@@ -1,186 +1,186 @@
 proxies:
   - name: Proxy-1
-    type: http
+    type: socks5
     server: 156.229.52.166
     port: 6305
     username: '98120578'
     password: EGrDdzrN
   - name: Proxy-2
-    type: http
+    type: socks5
     server: ade.360s5.com
     port: 3600
     username: 98120578-zone-custom-region-GB-city-london-sessid-Fyj2Zjpz-sessTime-120
     password: JI6nmSu5
   - name: Proxy-3
-    type: http
+    type: socks5
     server: ade.360s5.com
     port: 3600
     username: 98120578-zone-custom-region-GB-city-london-sessid-LHnLCZh5-sessTime-120
     password: JI6nmSu5
   - name: Proxy-4
-    type: http
+    type: socks5
     server: ade.360s5.com
     port: 3600
     username: 98120578-zone-custom-region-GB-city-london-sessid-UbBGs8D9-sessTime-120
     password: JI6nmSu5
   - name: Proxy-5
-    type: http
+    type: socks5
     server: ade.360s5.com
     port: 3600
     username: 98120578-zone-custom-region-GB-city-london-sessid-LdjBDarz-sessTime-120
     password: JI6nmSu5
   - name: Proxy-6
-    type: http
+    type: socks5
     server: ade.360s5.com
     port: 3600
     username: 98120578-zone-custom-region-GB-city-london-sessid-nWbHvecx-sessTime-120
     password: JI6nmSu5
   - name: Proxy-7
-    type: http
+    type: socks5
     server: ade.360s5.com
     port: 3600
     username: 98120578-zone-custom-region-GB-city-london-sessid-3Ey5o65Q-sessTime-120
     password: JI6nmSu5
   - name: Proxy-8
-    type: http
+    type: socks5
     server: ade.360s5.com
     port: 3600
     username: 98120578-zone-custom-region-GB-city-london-sessid-mb9jtvG5-sessTime-120
     password: JI6nmSu5
   - name: Proxy-9
-    type: http
+    type: socks5
     server: ade.360s5.com
     port: 3600
     username: 98120578-zone-custom-region-GB-city-london-sessid-x6EMREoQ-sessTime-120
     password: JI6nmSu5
   - name: Proxy-10
-    type: http
+    type: socks5
     server: ade.360s5.com
     port: 3600
     username: 98120578-zone-custom-region-GB-city-london-sessid-GP9Im85T-sessTime-120
     password: JI6nmSu5
   - name: Proxy-11
-    type: http
+    type: socks5
     server: ade.360s5.com
     port: 3600
     username: 98120578-zone-custom-region-GB-city-london-sessid-ZwWhn8Du-sessTime-120
     password: JI6nmSu5
   - name: Proxy-12
-    type: http
+    type: socks5
     server: ade.360s5.com
     port: 3600
     username: 98120578-zone-custom-region-GB-city-london-sessid-POd0MlBS-sessTime-120
     password: JI6nmSu5
   - name: Proxy-13
-    type: http
+    type: socks5
     server: ade.360s5.com
     port: 3600
     username: 98120578-zone-custom-region-GB-city-london-sessid-jY5Ro9uF-sessTime-120
     password: JI6nmSu5
   - name: Proxy-14
-    type: http
+    type: socks5
     server: ade.360s5.com
     port: 3600
     username: 98120578-zone-custom-region-GB-city-london-sessid-Ms1YRc7m-sessTime-120
     password: JI6nmSu5
   - name: Proxy-15
-    type: http
+    type: socks5
     server: ade.360s5.com
     port: 3600
     username: 98120578-zone-custom-region-GB-city-london-sessid-8HZCvfto-sessTime-120
     password: JI6nmSu5
   - name: Proxy-16
-    type: http
+    type: socks5
     server: ade.360s5.com
     port: 3600
     username: 98120578-zone-custom-region-GB-city-london-sessid-r5A8gnLk-sessTime-120
     password: JI6nmSu5
   - name: Proxy-17
-    type: http
+    type: socks5
     server: ade.360s5.com
     port: 3600
     username: 98120578-zone-custom-region-GB-city-london-sessid-dv1I1QgY-sessTime-120
     password: JI6nmSu5
   - name: Proxy-18
-    type: http
+    type: socks5
     server: ade.360s5.com
     port: 3600
     username: 98120578-zone-custom-region-GB-city-london-sessid-FGgw4FQZ-sessTime-120
     password: JI6nmSu5
   - name: Proxy-19
-    type: http
+    type: socks5
     server: ade.360s5.com
     port: 3600
     username: 98120578-zone-custom-region-GB-city-london-sessid-2VJj5tFj-sessTime-120
     password: JI6nmSu5
   - name: Proxy-20
-    type: http
+    type: socks5
     server: ade.360s5.com
     port: 3600
     username: 98120578-zone-custom-region-GB-city-london-sessid-MuxSfIRo-sessTime-120
     password: JI6nmSu5
   - name: Proxy-21
-    type: http
+    type: socks5
     server: ade.360s5.com
     port: 3600
     username: 98120578-zone-custom-region-GB-city-london-sessid-MlhgjBs4-sessTime-120
     password: JI6nmSu5
   - name: Proxy-22
-    type: http
+    type: socks5
     server: ade.360s5.com
     port: 3600
     username: 98120578-zone-custom-region-GB-city-london-sessid-ZXBRcrxp-sessTime-120
     password: JI6nmSu5
   - name: Proxy-23
-    type: http
+    type: socks5
     server: ade.360s5.com
     port: 3600
     username: 98120578-zone-custom-region-GB-city-london-sessid-wmDnZnl8-sessTime-120
     password: JI6nmSu5
   - name: Proxy-24
-    type: http
+    type: socks5
     server: ade.360s5.com
     port: 3600
     username: 98120578-zone-custom-region-GB-city-london-sessid-gp1Q3Q7M-sessTime-120
     password: JI6nmSu5
   - name: Proxy-25
-    type: http
+    type: socks5
     server: ade.360s5.com
     port: 3600
     username: 98120578-zone-custom-region-GB-city-london-sessid-mYtccvHG-sessTime-120
     password: JI6nmSu5
   - name: Proxy-26
-    type: http
+    type: socks5
     server: ade.360s5.com
     port: 3600
     username: 98120578-zone-custom-region-GB-city-london-sessid-7s0ZWRu9-sessTime-120
     password: JI6nmSu5
   - name: Proxy-27
-    type: http
+    type: socks5
     server: ade.360s5.com
     port: 3600
     username: 98120578-zone-custom-region-GB-city-london-sessid-WGjNlTox-sessTime-120
     password: JI6nmSu5
   - name: Proxy-28
-    type: http
+    type: socks5
     server: ade.360s5.com
     port: 3600
     username: 98120578-zone-custom-region-GB-city-london-sessid-FGYR9IiM-sessTime-120
     password: JI6nmSu5
   - name: Proxy-29
-    type: http
+    type: socks5
     server: ade.360s5.com
     port: 3600
     username: 98120578-zone-custom-region-GB-city-london-sessid-QjSMI0vK-sessTime-120
     password: JI6nmSu5
   - name: Proxy-30
-    type: http
+    type: socks5
     server: ade.360s5.com
     port: 3600
     username: 98120578-zone-custom-region-GB-city-london-sessid-tTcvhEMa-sessTime-120
     password: JI6nmSu5
   - name: Proxy-31
-    type: http
+    type: socks5
     server: ade.360s5.com
     port: 3600
     username: 98120578-zone-custom-region-GB-city-london-sessid-uxwJy01K-sessTime-120

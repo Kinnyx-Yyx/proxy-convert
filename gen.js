@@ -16,7 +16,7 @@ const proxies = inputContents.map((line, index) => {
 
     return {
         name: `Proxy-${index + 1}`,
-        type: 'http',
+        type: 'socks5', // http
         server: server,
         port: parseInt(port, 10),
         username: username,
