@@ -1,5 +1,5 @@
 proxies:
-  - name: Proxy-1
+  - name: Proxy-1-1
     type: http
     server: 156.229.52.166
     port: 6305
@@ -69,7 +69,7 @@ proxy-groups:
   - name: Proxies
     type: select
     proxies:
-      - Proxy-1
+      - Proxy-1-1
       - Proxy-2
       - Proxy-3
       - Proxy-4
