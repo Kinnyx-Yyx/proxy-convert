@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "serve": "http-server",
+    "gen": "node gen.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "http-server": "^14.1.1",
+    "js-yaml": "^4.1.0",
+    "request-promise": "^4.2.6",
+    "socks-proxy-agent": "^8.0.4"
+  }
+}
