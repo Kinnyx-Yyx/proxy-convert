@@ -1,5 +1,5 @@
 98120578:EGrDdzrN@156.229.52.166:6305
-98120578-zone-custom-region-GB-city-london-sessid-Fyj2Zjpz-sessTime-120:JI6nmSu5@ade.360s5.com:3600
+98120578-zone-custom-region-HK-city-hongkong:JI6nmSu5@asg.360s5.com:3600
 98120578-zone-custom-region-GB-city-london-sessid-LHnLCZh5-sessTime-120:JI6nmSu5@ade.360s5.com:3600
 98120578-zone-custom-region-GB-city-london-sessid-UbBGs8D9-sessTime-120:JI6nmSu5@ade.360s5.com:3600
 98120578-zone-custom-region-GB-city-london-sessid-LdjBDarz-sessTime-120:JI6nmSu5@ade.360s5.com:3600
@@ -29,3 +29,4 @@
 98120578-zone-custom-region-GB-city-london-sessid-QjSMI0vK-sessTime-120:JI6nmSu5@ade.360s5.com:3600
 98120578-zone-custom-region-GB-city-london-sessid-tTcvhEMa-sessTime-120:JI6nmSu5@ade.360s5.com:3600
 98120578-zone-custom-region-GB-city-london-sessid-uxwJy01K-sessTime-120:JI6nmSu5@ade.360s5.com:3600
+98120578-zone-custom-region-GB-city-london-sessid-Fyj2Zjpz-sessTime-120:JI6nmSu5@ade.360s5.com:3600

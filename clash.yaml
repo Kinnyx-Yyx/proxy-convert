@@ -7,9 +7,9 @@ proxies:
     password: EGrDdzrN
   - name: Proxy-2
     type: socks5
-    server: ade.360s5.com
+    server: asg.360s5.com
     port: 3600
-    username: 98120578-zone-custom-region-GB-city-london-sessid-Fyj2Zjpz-sessTime-120
+    username: 98120578-zone-custom-region-HK-city-hongkong
     password: JI6nmSu5
   - name: Proxy-3
     type: socks5
@@ -185,6 +185,12 @@ proxies:
     port: 3600
     username: 98120578-zone-custom-region-GB-city-london-sessid-uxwJy01K-sessTime-120
     password: JI6nmSu5
+  - name: Proxy-32
+    type: socks5
+    server: ade.360s5.com
+    port: 3600
+    username: 98120578-zone-custom-region-GB-city-london-sessid-Fyj2Zjpz-sessTime-120
+    password: JI6nmSu5
 proxy-groups:
   - name: Proxies
     type: select
@@ -220,6 +226,7 @@ proxy-groups:
       - Proxy-29
       - Proxy-30
       - Proxy-31
+      - Proxy-32
 rules:
   - GEOIP,CN,DIRECT
   - MATCH,Proxies
