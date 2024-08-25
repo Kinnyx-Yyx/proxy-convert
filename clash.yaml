@@ -7,39 +7,39 @@ proxies:
     password: EGrDdzrN
   - name: Proxy-2
     type: http
+    server: 149.40.76.216
+    port: 6305
+    username: '98120578'
+    password: 5SXG4dcI
+  - name: Proxy-3
+    type: http
+    server: 149.40.76.29
+    port: 6305
+    username: '98120578'
+    password: VFi6anxU
+  - name: Proxy-4
+    type: http
+    server: 149.40.70.2
+    port: 6305
+    username: '98120578'
+    password: 2XAS5YrC
+  - name: Proxy-5
+    type: http
+    server: 149.40.76.180
+    port: 6305
+    username: '98120578'
+    password: z6Ax141n
+  - name: Proxy-6
+    type: http
+    server: 149.40.76.229
+    port: 6305
+    username: '98120578'
+    password: y0uP0Peg
+  - name: Proxy-7
+    type: http
     server: asg.360s5.com
     port: 3600
     username: 98120578-zone-custom-region-HK-city-hongkong
-    password: JI6nmSu5
-  - name: Proxy-3
-    type: http
-    server: ade.360s5.com
-    port: 3600
-    username: 98120578-zone-custom-region-GB-city-london
-    password: JI6nmSu5
-  - name: Proxy-4
-    type: http
-    server: ade.360s5.com
-    port: 3600
-    username: 98120578-zone-custom-region-GB-city-london
-    password: JI6nmSu5
-  - name: Proxy-5
-    type: http
-    server: ade.360s5.com
-    port: 3600
-    username: 98120578-zone-custom-region-GB-city-london
-    password: JI6nmSu5
-  - name: Proxy-6
-    type: http
-    server: ade.360s5.com
-    port: 3600
-    username: 98120578-zone-custom-region-GB-city-london
-    password: JI6nmSu5
-  - name: Proxy-7
-    type: http
-    server: ade.360s5.com
-    port: 3600
-    username: 98120578-zone-custom-region-GB-city-london
     password: JI6nmSu5
   - name: Proxy-8
     type: http
@@ -311,6 +311,36 @@ proxies:
     port: 3600
     username: 98120578-zone-custom-region-GB-city-london
     password: JI6nmSu5
+  - name: Proxy-53
+    type: http
+    server: ade.360s5.com
+    port: 3600
+    username: 98120578-zone-custom-region-GB-city-london
+    password: JI6nmSu5
+  - name: Proxy-54
+    type: http
+    server: ade.360s5.com
+    port: 3600
+    username: 98120578-zone-custom-region-GB-city-london
+    password: JI6nmSu5
+  - name: Proxy-55
+    type: http
+    server: ade.360s5.com
+    port: 3600
+    username: 98120578-zone-custom-region-GB-city-london
+    password: JI6nmSu5
+  - name: Proxy-56
+    type: http
+    server: ade.360s5.com
+    port: 3600
+    username: 98120578-zone-custom-region-GB-city-london
+    password: JI6nmSu5
+  - name: Proxy-57
+    type: http
+    server: ade.360s5.com
+    port: 3600
+    username: 98120578-zone-custom-region-GB-city-london
+    password: JI6nmSu5
 proxy-groups:
   - name: Proxies
     type: select
@@ -367,6 +397,11 @@ proxy-groups:
       - Proxy-50
       - Proxy-51
       - Proxy-52
+      - Proxy-53
+      - Proxy-54
+      - Proxy-55
+      - Proxy-56
+      - Proxy-57
 rules:
   - GEOIP,CN,DIRECT
   - MATCH,Proxies
