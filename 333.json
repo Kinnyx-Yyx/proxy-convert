@@ -1,0 +1,99 @@
+{
+  "proxies": [
+    {
+      "name": "Proxy-1",
+      "type": "http",
+      "server": "156.229.52.166",
+      "port": 6305,
+      "username": "98120578",
+      "password": "EGrDdzrN"
+    },
+    {
+      "name": "Proxy-2",
+      "type": "http",
+      "server": "149.40.76.216",
+      "port": 6305,
+      "username": "98120578",
+      "password": "5SXG4dcI"
+    },
+    {
+      "name": "Proxy-3",
+      "type": "http",
+      "server": "149.40.76.29",
+      "port": 6305,
+      "username": "98120578",
+      "password": "VFi6anxU"
+    },
+    {
+      "name": "Proxy-4",
+      "type": "http",
+      "server": "149.40.70.2",
+      "port": 6305,
+      "username": "98120578",
+      "password": "2XAS5YrC"
+    },
+    {
+      "name": "Proxy-5",
+      "type": "http",
+      "server": "149.40.76.180",
+      "port": 6305,
+      "username": "98120578",
+      "password": "z6Ax141n"
+    },
+    {
+      "name": "Proxy-6",
+      "type": "http",
+      "server": "149.40.76.229",
+      "port": 6305,
+      "username": "98120578",
+      "password": "y0uP0Peg"
+    },
+    {
+      "name": "Proxy-7",
+      "type": "http",
+      "server": "asg.360s5.com",
+      "port": 3600,
+      "username": "98120578-zone-custom-region-HK-city-hongkong",
+      "password": "JI6nmSu5"
+    },
+    {
+      "name": "Proxy-8",
+      "type": "http",
+      "server": "ade.360s5.com",
+      "port": 3600,
+      "username": "98120578-zone-custom-region-GB-city-london",
+      "password": "JI6nmSu5"
+    },
+    ...
+    {
+      "name": "Proxy-57",
+      "type": "http",
+      "server": "ade.360s5.com",
+      "port": 3600,
+      "username": "98120578-zone-custom-region-GB-city-london",
+      "password": "JI6nmSu5"
+    }
+  ],
+  "proxy-groups": [
+    {
+      "name": "Proxies",
+      "type": "select",
+      "proxies": [
+        "Proxy-1",
+        "Proxy-2",
+        "Proxy-3",
+        "Proxy-4",
+        "Proxy-5",
+        "Proxy-6",
+        "Proxy-7",
+        "Proxy-8",
+        ...
+        "Proxy-57"
+      ]
+    }
+  ],
+  "rules": [
+    "GEOIP,CN,DIRECT",
+    "MATCH,Proxies"
+  ]
+}
