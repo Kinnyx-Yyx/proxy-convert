@@ -341,6 +341,66 @@ proxies:
     port: 3600
     username: 98120578-zone-custom-region-GB-city-london
     password: JI6nmSu5
+  - name: Proxy-58
+    type: http
+    server: asg.360s5.com
+    port: 3600
+    username: 98120578-zone-custom-region-VN
+    password: JI6nmSu5
+  - name: Proxy-59
+    type: http
+    server: asg.360s5.com
+    port: 3600
+    username: 98120578-zone-custom-region-VN
+    password: JI6nmSu5
+  - name: Proxy-60
+    type: http
+    server: asg.360s5.com
+    port: 3600
+    username: 98120578-zone-custom-region-VN
+    password: JI6nmSu5
+  - name: Proxy-61
+    type: http
+    server: asg.360s5.com
+    port: 3600
+    username: 98120578-zone-custom-region-VN
+    password: JI6nmSu5
+  - name: Proxy-62
+    type: http
+    server: asg.360s5.com
+    port: 3600
+    username: 98120578-zone-custom-region-VN
+    password: JI6nmSu5
+  - name: Proxy-63
+    type: http
+    server: asg.360s5.com
+    port: 3600
+    username: 98120578-zone-custom-region-VN
+    password: JI6nmSu5
+  - name: Proxy-64
+    type: http
+    server: asg.360s5.com
+    port: 3600
+    username: 98120578-zone-custom-region-VN
+    password: JI6nmSu5
+  - name: Proxy-65
+    type: http
+    server: asg.360s5.com
+    port: 3600
+    username: 98120578-zone-custom-region-VN
+    password: JI6nmSu5
+  - name: Proxy-66
+    type: http
+    server: asg.360s5.com
+    port: 3600
+    username: 98120578-zone-custom-region-VN
+    password: JI6nmSu5
+  - name: Proxy-67
+    type: http
+    server: asg.360s5.com
+    port: 3600
+    username: 98120578-zone-custom-region-VN
+    password: JI6nmSu5
 proxy-groups:
   - name: Proxies
     type: select
@@ -402,6 +462,16 @@ proxy-groups:
       - Proxy-55
       - Proxy-56
       - Proxy-57
+      - Proxy-58
+      - Proxy-59
+      - Proxy-60
+      - Proxy-61
+      - Proxy-62
+      - Proxy-63
+      - Proxy-64
+      - Proxy-65
+      - Proxy-66
+      - Proxy-67
 rules:
   - GEOIP,CN,DIRECT
   - MATCH,Proxies

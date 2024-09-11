@@ -55,3 +55,13 @@
 98120578-zone-custom-region-GB-city-london:JI6nmSu5@ade.360s5.com:3600
 98120578-zone-custom-region-GB-city-london:JI6nmSu5@ade.360s5.com:3600
 98120578-zone-custom-region-GB-city-london:JI6nmSu5@ade.360s5.com:3600
+98120578-zone-custom-region-VN:JI6nmSu5@asg.360s5.com:3600
+98120578-zone-custom-region-VN:JI6nmSu5@asg.360s5.com:3600
+98120578-zone-custom-region-VN:JI6nmSu5@asg.360s5.com:3600
+98120578-zone-custom-region-VN:JI6nmSu5@asg.360s5.com:3600
+98120578-zone-custom-region-VN:JI6nmSu5@asg.360s5.com:3600
+98120578-zone-custom-region-VN:JI6nmSu5@asg.360s5.com:3600
+98120578-zone-custom-region-VN:JI6nmSu5@asg.360s5.com:3600
+98120578-zone-custom-region-VN:JI6nmSu5@asg.360s5.com:3600
+98120578-zone-custom-region-VN:JI6nmSu5@asg.360s5.com:3600
+98120578-zone-custom-region-VN:JI6nmSu5@asg.360s5.com:3600
